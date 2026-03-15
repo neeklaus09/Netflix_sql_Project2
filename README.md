@@ -52,7 +52,7 @@ The dataset contains metadata about Netflix titles.
 
 ---
 
-# 1️⃣ Country-wise Total Netflix Titles
+# 1️ Country-wise Total Netflix Titles
 
 ### Question
 
@@ -64,7 +64,7 @@ This analysis identifies the countries that contribute the most content to Netfl
 
 ---
 
-# 2️⃣ Country Contribution by Release Year
+# 2️ Country Contribution by Release Year
 
 ### Question
 
@@ -76,7 +76,7 @@ This analysis shows how content production from each country has evolved over ti
 
 ---
 
-# 3️⃣ Top Content Producing Country Each Year
+# 3️ Top Content Producing Country Each Year
 
 ### Question
 
@@ -88,7 +88,7 @@ This analysis identifies the **leading content-producing country for each year**
 
 ---
 
-# 4️⃣ Country-wise Movies vs TV Shows
+# 4️ Country-wise Movies vs TV Shows
 
 ### Question
 
@@ -100,7 +100,7 @@ This query highlights how different countries specialize in content types. Some 
 
 ---
 
-# 5️⃣ Most Recent Release Year by Country
+# 5️ Most Recent Release Year by Country
 
 ### Question
 
@@ -112,7 +112,7 @@ This analysis identifies **countries that are currently active contributors** to
 
 ---
 
-# 6️⃣ Emerging Content Markets
+# 6️ Emerging Content Markets
 
 ### Question
 
@@ -124,7 +124,7 @@ These countries represent **emerging content markets**. Although they currently 
 
 ---
 
-# 7️⃣ Most Common Rating for Movies and TV Shows
+# 7️ Most Common Rating for Movies and TV Shows
 
 ### Question
 
@@ -136,7 +136,7 @@ The analysis reveals that **TV-MA is the most common rating**, indicating that N
 
 ---
 
-# 8️⃣ Overall Netflix Library Snapshot
+# 8️ Overall Netflix Library Snapshot
 
 ### Question
 
@@ -156,7 +156,7 @@ This gives a **quick snapshot of the platform’s scale and diversity**.
 
 ---
 
-# 9️⃣ Year-on-Year Growth of Netflix Content
+# 9️ Year-on-Year Growth of Netflix Content
 
 ### Question
 
@@ -168,7 +168,7 @@ The results typically show **rapid growth after 2015**, reflecting Netflix’s a
 
 ---
 
-# 🔟 Genre Breakdown
+# 10 Genre Breakdown
 
 ### Question
 
@@ -180,7 +180,7 @@ Genres such as **International Movies, Dramas, and Comedies** dominate the catal
 
 ---
 
-# 1️⃣1️⃣ Audience Rating Distribution
+# 11 Audience Rating Distribution
 
 ### Question
 
@@ -192,7 +192,7 @@ The analysis categorizes ratings into Kids, Family/Teens, and Adults. The result
 
 ---
 
-# 1️⃣2️⃣ Audience Mismatch by Country
+# 1️2️ Audience Mismatch by Country
 
 ### Question
 
@@ -204,7 +204,7 @@ Countries where adult content exceeds **50% of the catalog** may face **higher s
 
 ---
 
-# 1️⃣3️⃣ Best Month to Release Content
+# 1️3️ Best Month to Release Content
 
 ### Question
 
@@ -216,7 +216,7 @@ Months with the highest content additions tend to attract more viewer browsing a
 
 ---
 
-# 1️⃣4️⃣ TV Show Season Strategy
+# 1️4️ TV Show Season Strategy
 
 ### Question
 
@@ -228,7 +228,7 @@ If the majority of shows have only **one season**, it suggests a pattern of **fa
 
 ---
 
-# 1️⃣5️⃣ Top Directors for Potential Partnerships
+# 1️5️ Top Directors for Potential Partnerships
 
 ### Question
 
@@ -248,7 +248,7 @@ This helps identify **high-value creators who could be ideal candidates for excl
 
 ---
 
-# 1️⃣6️⃣ Genre Investment Efficiency
+# 1️6️ Genre Investment Efficiency
 
 ### Question
 
