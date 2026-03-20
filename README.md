@@ -275,15 +275,5 @@ This analysis helps guide **content investment strategy**.
 * Analytical Problem Solving
 * Insight Generation for Business Strategy
 
----
 
-# 📈 Potential Future Improvements
-
-* Interactive dashboards using **Power BI or Tableau**
-* Content recommendation analysis
-* Subscriber growth correlation with content releases
-* Genre popularity forecasting using machine learning
-
----
-
-⭐ If you found this project interesting, feel free to fork or contribute!
+--- end of project---
